@@ -5,3 +5,4 @@ Git tracks changes of files.
 Create a new branch is quick.
 Create a feature branch.
 Merge no ff.
+Add new content.
