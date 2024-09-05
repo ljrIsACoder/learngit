@@ -8,3 +8,4 @@ Merge no ff.
 Add a new line.
 Add new content.
 A.
+B.
