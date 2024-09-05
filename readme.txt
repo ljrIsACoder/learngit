@@ -6,7 +6,6 @@ Create a new branch is quick.
 Create a feature branch.
 Merge no ff.
 Add a new line.
-Add new content.
 A.
 B.
 C.
